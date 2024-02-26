@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Text, Card, SimpleGrid, Container, Space, Badge, Button } from '@mantine/core';
+import { Title, Text, Card, SimpleGrid, Container, Badge } from '@mantine/core';
 import Image from 'next/image';
 import classes from './index.module.css';
 

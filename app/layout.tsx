@@ -5,7 +5,7 @@ import { MantineProvider, ColorSchemeScript } from '@mantine/core';
 import { theme } from '../theme';
 
 export const metadata = {
-  title: 'Raven Node',
+  title: 'Kuso Node',
   description:
     'Independent node validator, ready to contribute to decentralized networks and foster innovation in the realm of blockchain technology.',
 };

@@ -21,7 +21,7 @@ export function HeroImageRight() {
                 variant="gradient"
                 gradient={{ from: 'blue', to: 'blue' }}
               >
-                Raven
+                Kuso
               </Text>{' '}
               Node
             </Title>
